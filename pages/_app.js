@@ -1,7 +1,6 @@
 import Head from 'next/head'
 import Link from 'next/link'
 import { useRouter } from 'next/router'
-import { useState } from 'react'
 
 import ChangeTheme from '../components/ChangeTheme'
 import getCanonical from '../utils/getCanonical'
@@ -11,7 +10,6 @@ import '../styles/highlightcode.css'
 
 export default function Layout({ Component, pageProps }) {
   const { pathname, asPath } = useRouter()
-  const [readStory, setreadStory] = useState(false)
   const isActive = (link) => (pathname.startsWith(link) ? 'active' : '')
   const isDefaultMeta =
     pathname !== '/relatos/[slug]' && pathname !== '/poemas/[slug]'
@@ -78,7 +76,7 @@ export default function Layout({ Component, pageProps }) {
               width={48}
               height={48}
             />
-            <span>B.Sánchez</span>
+            <span>B. Sánchez</span>
           </a>
         </Link>
         <nav>

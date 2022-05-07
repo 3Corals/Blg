@@ -26,4 +26,5 @@ yarn-error.log*
 
 # generated rss.xml and sitemap.xml
 public/rss.xml
-public/sitemap.xml
+
+**/.DS_Store
