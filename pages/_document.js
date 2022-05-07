@@ -7,10 +7,6 @@ export default class MyDocument extends Document {
         <Head>
           <meta name="theme-color" content="#ad1457" />
           <link rel="manifest" href="/manifest.json" />
-          <script
-            defer
-            src="https://www.googletagmanager.com/gtag/js?id=UA-80705550-1"
-          ></script>
         </Head>
         <body className="light">
           <script
@@ -46,13 +42,6 @@ export default class MyDocument extends Document {
                 });
                 setTheme(preferredTheme || 'system');
               })();
-              
-              // Google analytics
-              window.dataLayer = window.dataLayer || [];
-              function gtag(){dataLayer.push(arguments);}
-              gtag('js', new Date());
-
-              gtag('config', 'UA-80705550-1');
             `,
             }}
           />

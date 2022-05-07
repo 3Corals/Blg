@@ -1,6 +1,8 @@
-import Link from 'next/link'
 import Head from 'next/head'
+import Link from 'next/link'
 import { useRouter } from 'next/router'
+import { useState } from 'react'
+
 import ChangeTheme from '../components/ChangeTheme'
 import getCanonical from '../utils/getCanonical'
 
@@ -9,18 +11,21 @@ import '../styles/highlightcode.css'
 
 export default function Layout({ Component, pageProps }) {
   const { pathname, asPath } = useRouter()
+  const [readStory, setreadStory] = useState(false)
   const isActive = (link) => (pathname.startsWith(link) ? 'active' : '')
-  const isDefaultMeta = pathname !== '/relatos/[slug]' && pathname !== '/poemas/[slug]'
-  const mainClass = pathname.startsWith('/poemas/') || pathname.startsWith('/relatos/') ? 'blog' : ''
+  const isDefaultMeta =
+    pathname !== '/relatos/[slug]' && pathname !== '/poemas/[slug]'
+  const mainClass =
+    pathname.startsWith('/poemas/') || pathname.startsWith('/relatos/')
+      ? 'blog'
+      : ''
 
   const data = {
     url: getCanonical(asPath),
     title: 'B.Sánchez',
-    description:
-      "Relatos y poemas de B.Sánchez.",
+    description: 'Relatos y poemas de B.Sánchez.',
     cover_image: 'https://aralroca.com/images/profile_full.jpg',
-    tags:
-      'relatos, relato, poemas, poema, español, castellano',
+    tags: 'relatos, relato, poemas, poema, español, castellano',
   }
 
   return (
