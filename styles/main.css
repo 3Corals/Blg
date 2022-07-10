@@ -1,6 +1,6 @@
 :root {
   --max-screen-width: 1200px;
-  --max-screen-width-blog: 900px;
+  --max-screen-width-blog: 700px;
 }
 
 @font-face {
@@ -337,11 +337,17 @@ blockquote {
   width: max-content;
   margin: 0 auto;
   margin-bottom: 50px;
+  max-width: 100%;
 }
 
 .post p {
   padding: 10px;
   text-align: center;
+}
+
+.post.relat p {
+  text-align: justify;
+  text-justify: inter-word;
 }
 
 .post a {
