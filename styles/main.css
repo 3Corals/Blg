@@ -193,17 +193,7 @@ header nav {
 }
 
 .logo {
-  font-size: 22px;
-  font-weight: bold;
-  display: flex;
-  align-items: center;
   color: var(--color-header);
-  padding-left: 10px;
-}
-
-.logo img {
-  margin-right: 10px;
-  box-shadow: 1px 1px 5px 0px var(--color-shadow);
 }
 
 .post-info {

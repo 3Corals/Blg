@@ -47,21 +47,21 @@ export default function Post({
       </Head>
       <h1 className="post-title">{data.title}</h1>
       <BlogSeries key="series-top" title={data.series} series={series} />
-      <div className="post" dangerouslySetInnerHTML={{ __html }} />
+      <div className="post poema" dangerouslySetInnerHTML={{ __html }} />
       <BlogSeries
         style={{ marginTop: 40 }}
         key="series-bottom"
         title={data.series}
         series={series}
       />
-      <div style={{ textAlign: 'center '}}>
+      <div style={{ textAlign: 'center ' }}>
         <PostInfo date={date} timeToRead={timeToRead} />
         <div className="tags" style={{ marginBottom: 30 }}>
           {tags.map((tag) => (
             <Tag key={tag} label={tag} />
           ))}
-        </div> 
-      </div>    
+        </div>
+      </div>
       <Newsletter />
       {morePosts.length > 0 && (
         <div style={{ marginBottom: 50 }}>

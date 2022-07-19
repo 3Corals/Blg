@@ -3,6 +3,7 @@ import Link from 'next/link'
 import { useRouter } from 'next/router'
 
 import ChangeTheme from '../components/ChangeTheme'
+import Logo from '../components/Logo'
 import getCanonical from '../utils/getCanonical'
 
 import '../styles/main.css'
@@ -70,13 +71,7 @@ export default function Layout({ Component, pageProps }) {
       <header>
         <Link href="/">
           <a title="Go to homepage" className="logo">
-            <img
-              alt="B.Sánchez's personal web site"
-              src="/images/logo.svg"
-              width={48}
-              height={48}
-            />
-            <span>B. Sánchez</span>
+            <Logo />
           </a>
         </Link>
         <nav>

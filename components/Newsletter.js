@@ -1,4 +1,6 @@
 export default function Newsletter() {
+  return null
+  // TODO: configure
   return (
     <form
       className="newsletter"
