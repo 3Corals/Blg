@@ -1,3 +1,4 @@
+import { useEffect } from 'react'
 import Head from 'next/head'
 import Link from 'next/link'
 import { useRouter } from 'next/router'
@@ -26,6 +27,25 @@ export default function Layout({ Component, pageProps }) {
     cover_image: 'https://aralroca.com/images/profile_full.jpg',
     tags: 'relatos, relato, poemas, poema, español, castellano',
   }
+
+  useEffect(() => {
+    const text =
+      'Reservados todos los derechos. No se permite la reproducción total o parcial de esta obra, ni su incorporación a un sistema informático, ni su transmisión en cualquier forma o por cualquier medio (electrónico, mecánico, fotocopia, grabación u otros) sin autorización previa y por escrito de los titulares del copyright. La infracción de dichos derechos puede constituir un delito contra la propiedad intelectual.'
+    const isIe =
+      navigator.userAgent.toLowerCase().indexOf('msie') != -1 ||
+      navigator.userAgent.toLowerCase().indexOf('trident') != -1
+
+    function denyCopy(e) {
+      if (isIe) {
+        window.clipboardData.setData('Text', text)
+      } else {
+        e.clipboardData.setData('text/plain', text)
+      }
+      e.preventDefault()
+    }
+    window.addEventListener('copy', denyCopy)
+    return () => window.removeEventListener('copy', denyCopy)
+  }, [])
 
   return (
     <>
@@ -88,6 +108,9 @@ export default function Layout({ Component, pageProps }) {
         <Component {...pageProps} />
       </main>
       <footer>
+        <div className="copyright">
+          {new Date().getFullYear()} Todos los derechos reservados.
+        </div>
         <ChangeTheme />
       </footer>
     </>

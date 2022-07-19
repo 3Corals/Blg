@@ -58,63 +58,59 @@ export default function Relatos({ posts, tags }) {
           <meta key="noIndex" name="robots" content="noindex, follow" />
         )}
       </Head>
- 
-        
+
       <div className="blog-page-content">
+        <div className="posts-box">
+          <div className="blog-title">
+            <h1>Relatos</h1>
+            <div>{filteredPosts.length} posts</div>
+          </div>
 
-      <div className="posts-box">
+          {postsToShow.map((post) => (
+            <PostItem parent="relatos" key={post.slug} {...post} />
+          ))}
 
-      <div className="blog-title">
-        <h1>Relatos</h1>
-        <div>
-          {filteredPosts.length} posts
+          {pages > 1 && (
+            <Pagination
+              href={(p) => `/relatos?q=${query.q || ''}&page=${p}`}
+              currentPage={currentPage}
+              pages={pages}
+            />
+          )}
+
+          {filteredPosts.length === 0 && (
+            <div style={{ marginTop: 50, textAlign: 'center' }}>
+              Can't find what you're looking for? Try using{' '}
+              <a
+                target="_blank"
+                rel="noopener noreferrer"
+                href={`https://www.google.com/search?q=site%3Aaralroca.com+${search}`}
+              >
+                Google
+              </a>
+              .
+            </div>
+          )}
         </div>
-      </div>
 
-      {postsToShow.map((post) => (
-        <PostItem parent="relatos" key={post.slug} {...post} />
-      ))}
+        <aside className="searcher-box">
+          <div className="sticky">
+            <Searcher key={key.current} search={search} onSearch={onSearch} />
 
-      {pages > 1 && (
-        <Pagination
-          href={(p) => `/relatos?q=${query.q || ''}&page=${p}`}
-          currentPage={currentPage}
-          pages={pages}
-        />
-      )}
-
-      {filteredPosts.length === 0 && (
-        <div style={{ marginTop: 50, textAlign: 'center' }}>
-          Can't find what you're looking for? Try using{' '}
-          <a
-            target="_blank"
-            rel="noopener noreferrer"
-            href={`https://www.google.com/search?q=site%3Aaralroca.com+${search}`}
-          >
-            Google
-          </a>
-          .
-        </div>
-      )}
-      </div>
-
-      <aside className="searcher-box">
-        <div className="sticky">
-      <Searcher key={key.current} search={search} onSearch={onSearch} />
-
-      <div className="tags" style={{ marginTop: 10 }}>
-        {tags.map((tag) => (
-          <Tag
-            onClick={() => (key.current = Date.now())}
-            key={tag}
-            label={tag}
-            search={search}
-          />
-        ))}
-      </div>
-      <Newsletter />
-      </div>
-      </aside>
+            <div className="tags" style={{ marginTop: 10 }}>
+              {tags.map((tag) => (
+                <Tag
+                  onClick={() => (key.current = Date.now())}
+                  key={tag}
+                  folder="content/relatos"
+                  label={tag}
+                  search={search}
+                />
+              ))}
+            </div>
+            <Newsletter />
+          </div>
+        </aside>
       </div>
     </Fragment>
   )

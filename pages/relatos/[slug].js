@@ -57,7 +57,7 @@ export default function Post({
         <PostInfo date={date} timeToRead={timeToRead} />
         <div className="tags" style={{ marginBottom: 30 }}>
           {tags.map((tag) => (
-            <Tag key={tag} label={tag} />
+            <Tag folder={folder} key={tag} label={tag} />
           ))}
         </div>
       </div>
