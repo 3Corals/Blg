@@ -12,7 +12,7 @@ import getAllPosts from '../../utils/getAllPosts'
 const itemsPerPage = 10
 
 function Searcher({ search, onSearch }) {
-  const label = 'Search posts'
+  const label = 'Busca un relato'
 
   return (
     <input
@@ -63,7 +63,7 @@ export default function Relatos({ posts, tags }) {
         <div className="posts-box">
           <div className="blog-title">
             <h1>Relatos</h1>
-            <div>{filteredPosts.length} posts</div>
+            <div>{filteredPosts.length} relatos</div>
           </div>
 
           {postsToShow.map((post) => (
@@ -119,7 +119,7 @@ export default function Relatos({ posts, tags }) {
 export const getStaticProps = async () => {
   const posts = getAllPosts('content/relatos')
   const tags = posts.reduce((t, post) => {
-    const postTags = post.metadata.tags.split(',')
+    const postTags = post.metadata.tags?.split?.(',') || []
     postTags.forEach((tag) => {
       const trimmedTag = tag.trim()
       if (!t.includes(trimmedTag)) t.push(trimmedTag)

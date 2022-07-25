@@ -20,8 +20,8 @@ ni libertad en el horizonte,
 ni sombras bajo las copas
 del abeto, el sauce y el roble.
 
-Solo gritos, mil gritos mudos
-encrucijados y ciegos
+Solo gritos, mil gritos mudos,
+encrucijados y ciegos,
 tramando fútiles trucos
 de cercenados deseos.
 

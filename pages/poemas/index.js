@@ -12,7 +12,7 @@ import getAllPosts from '../../utils/getAllPosts'
 const itemsPerPage = 10
 
 function Searcher({ search, onSearch }) {
-  const label = 'Search posts'
+  const label = 'Busca un poema'
 
   return (
     <input
@@ -119,7 +119,7 @@ export default function Poemas({ posts, tags }) {
 export const getStaticProps = async () => {
   const posts = getAllPosts('content/poemas')
   const tags = posts.reduce((t, post) => {
-    const postTags = post.metadata.tags.split(',')
+    const postTags = post.metadata.tags?.split?.(',') || []
     postTags.forEach((tag) => {
       const trimmedTag = tag.trim()
       if (!t.includes(trimmedTag)) t.push(trimmedTag)

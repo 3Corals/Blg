@@ -22,7 +22,7 @@ export default function Post({
   slug,
   timeToRead,
 }) {
-  const tags = data.tags.split(',')
+  const tags = data.tags?.split?.(',') || []
 
   return (
     <>

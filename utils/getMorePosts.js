@@ -1,7 +1,7 @@
 import getAllPosts from './getAllPosts'
 
 export default function getMorePosts({ data }, slug, folder) {
-  const tags = data.tags.split(',').map((l) => l.trim())
+  const tags = (data.tags?.split?.(',') || []).map((l) => l.trim())
   const posts = getAllPosts(folder)
 
   const series = posts
@@ -17,7 +17,7 @@ export default function getMorePosts({ data }, slug, folder) {
     .filter((p) => p.slug !== slug)
     .map((post) => ({
       relatedTags: tags.reduce(
-        (num, tag) => (post.metadata.tags.includes(tag) ? num + 1 : num),
+        (num, tag) => (post.metadata.tags?.includes?.(tag) ? num + 1 : num),
         0
       ),
       ...post,

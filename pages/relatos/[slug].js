@@ -21,7 +21,7 @@ export default function Post({
   series,
   timeToRead,
 }) {
-  const tags = data.tags.split(',')
+  const tags = data.tags?.split?.(',') || []
 
   return (
     <>
