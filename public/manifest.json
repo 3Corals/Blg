@@ -16,9 +16,9 @@
       "sizes": "512x512"
     }
   ],
-  "theme_color": "#ad1457",
-  "background_color": "#ad1457",
+  "theme_color": "#1e1e1e",
+  "background_color": "#1e1e1e",
   "display": "fullscreen",
   "orientation": "portrait",
-  "start_url": "/blog"
+  "start_url": "/"
 }
