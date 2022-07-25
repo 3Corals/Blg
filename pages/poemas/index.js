@@ -84,7 +84,7 @@ export default function Poemas({ posts, tags }) {
               <a
                 target="_blank"
                 rel="noopener noreferrer"
-                href={`https://www.google.com/search?q=site%3Aaralroca.com+${search}`}
+                href={`https://www.google.com/search?q=site%3Absanchez.es+${search}`}
               >
                 Google
               </a>

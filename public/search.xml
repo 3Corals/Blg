@@ -3,7 +3,7 @@
    <ShortName>B.Sánchez</ShortName>
    <Description>Relatos y poemas de B.Sánchez.</Description>
    <Tags>relatos, relato, poemas, poema, español, castellano</Tags>
-   <Contact>contact@aralroca.com</Contact>
+   <Contact>bsanchezcontact@proton.me</Contact>
    <Url type="text/html" 
-        template="https://aralroca.com/blog?q={searchTerms}"/>
+        template="https://bsanchez.es/relatos?q={searchTerms}"/>
  </OpenSearchDescription>

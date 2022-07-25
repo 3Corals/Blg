@@ -24,7 +24,7 @@ export default function Layout({ Component, pageProps }) {
     url: getCanonical(asPath),
     title: 'B.Sánchez',
     description: 'Relatos y poemas de B.Sánchez.',
-    cover_image: 'https://aralroca.com/images/profile_full.jpg',
+    cover_image: 'https://bsanchez.es/images/logo.svg',
     tags: 'relatos, relato, poemas, poema, español, castellano',
   }
 

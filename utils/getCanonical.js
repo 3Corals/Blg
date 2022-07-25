@@ -1,3 +1,3 @@
 export default function getCanonical(asPath) {
-  return 'https://aralroca.com' + asPath.replace(/(\?|#).*/, '')
+  return 'https://bsanchez.es' + asPath.replace(/(\?|#).*/, '')
 }
