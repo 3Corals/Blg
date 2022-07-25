@@ -3,7 +3,7 @@ title: 'Médium'
 created: 07/25/2022
 description:
 series:
-tags: fantasía
+tags: fantasía, comedia
 ---
 
 Lulú gritó de alegría.
