@@ -2,7 +2,7 @@
 title: 'Tienes azules los ojos'
 created: 08/08/2022
 series:
-tags: amor
+tags:
 ---
 
 Tienes azules los ojos,
