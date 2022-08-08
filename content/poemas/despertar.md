@@ -2,7 +2,7 @@
 title: 'Despertar'
 created: 08/08/2022
 series:
-tags: fantasía, día
+tags: día
 ---
 
 Espero que empiece la mañana
