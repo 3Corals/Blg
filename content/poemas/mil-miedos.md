@@ -26,8 +26,8 @@ no ver dónde existe un amigo.
 Lo que no entiendo, me extraña.
 
 Ocultar y encerrar el llanto
-de cuando nos quema un recuerdo
-y no entender que esos sucesos
+de cuando nos quema un recuerdo,
+no entender que esos sucesos
 definieron este momento.
 
 No querer madurar a tiempo
