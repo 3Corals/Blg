@@ -36,6 +36,6 @@ ansiar la falaz libertad
 de una partida perdida.
 
 Todos tenemos mil miedos,
-no se trata de algo terrible,
-lo difícil es afrontarlos solos.
-Juntos, somos invencibles.
+no se trata de algo terrible.
+Lo difícil es afrontarlos solos,
+juntos, somos invencibles.
