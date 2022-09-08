@@ -2,7 +2,7 @@
 title: 'Consecuencias'
 created: 08/08/2022
 series:
-tags:
+tags: vida
 ---
 
 Lamento muy acertado
