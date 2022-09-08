@@ -1,6 +1,6 @@
 ---
 title: 'Monstruo'
-created: 09/08/2022
+created: 09/09/2022
 series:
 tags: fantasía
 ---
