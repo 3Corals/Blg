@@ -46,6 +46,6 @@ De repente oyó que alguien se acercaba corriendo y entendió que se había acti
 
 ―No, no, no, no… ―se desesperó mientras se arrastraba hasta la estatua de su querida Eva, que había empezado a crujir.
 
-―Edith… ―Las frías manos que tanto amaba recorrieron con suavidad su rostro herido, liberándolo del peso de la sangre y las lágrimas pues, pese al dolor que traía consigo, no podía dejar de llorar.
+―Edit… ―Las frías manos que tanto amaba recorrieron con suavidad su rostro herido, liberándolo del peso de la sangre y las lágrimas pues, pese al dolor que traía consigo, no podía dejar de llorar.
 
 ―Te he vuelto a fallar…
