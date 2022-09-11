@@ -54,7 +54,6 @@ export default function Layout({ Component, pageProps }) {
         {isDefaultMeta && (
           <>
             <title key="title">{data.title}</title>
-            <meta name="monetization" content="$ilp.uphold.com/QjjKbnm6Dazp" />
             <meta key="meta-title" name="title" content={data.title} />
             <meta
               key="meta-description"

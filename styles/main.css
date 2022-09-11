@@ -45,7 +45,7 @@
   --serie: #1c2529;
 }
 
-.dark img:not(.logo img) {
+.dark img:not(.logo img):not(.kofi) {
   opacity: 0.75;
 }
 
@@ -692,6 +692,28 @@ table th {
   order: 1;
 }
 
+.kofi-link {
+  position: fixed;
+  z-index: 100;
+  bottom: 20px;
+  right: 20px;
+  font-size: 16px;
+  display: flex;
+  gap: 5px;
+  justify-content: center;
+  align-items: center;
+  padding: 5px 20px 5px 15px;
+  font-weight: bold;
+  border-radius: 100px;
+  color: var(--color);
+  text-decoration: none;
+  transition-duration: 0.1s;
+}
+
+.kofi-link:hover {
+  box-shadow: 2px 2px 10px 0 var(--color-shadow);
+}
+
 @media (max-width: 920px) {
   .blog-page-content {
     flex-wrap: wrap;
@@ -712,8 +734,10 @@ table th {
 }
 
 @media (max-width: 612px) {
-  .logo span {
+  .logo span,
+  .kofi-link span {
     display: none;
+    padding: 5px 15px;
   }
 
   .youtube {

@@ -12,6 +12,21 @@ export default function Home() {
         encontraréis al cruzar el umbral. Bienvenidos a mi mente, entrad bajo
         vuestra responsabilidad. No se admiten devoluciones.
       </p>
+
+      <a
+        className="kofi-link"
+        href="https://ko-fi.com/T6T2EYZWC"
+        target="_blank"
+        title="Invítame a un café"
+      >
+        <img
+          alt="Invítame a un café"
+          src="/cup-border.webp"
+          height="26"
+          className="kofi"
+        />
+        <span>Invítame a un café</span>
+      </a>
     </div>
   )
 }
