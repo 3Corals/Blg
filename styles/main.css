@@ -708,6 +708,7 @@ table th {
   color: var(--color);
   text-decoration: none;
   transition-duration: 0.1s;
+  white-space: nowrap;
 }
 
 .kofi-link:hover {
