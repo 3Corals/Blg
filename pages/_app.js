@@ -9,6 +9,8 @@ import getCanonical from '../utils/getCanonical'
 
 import '../styles/main.css'
 import '../styles/highlightcode.css'
+import Twitter from '../components/Icons/Twitter'
+import Insta from '../components/Icons/Insta'
 
 export default function Layout({ Component, pageProps }) {
   const { pathname, asPath } = useRouter()
@@ -107,10 +109,44 @@ export default function Layout({ Component, pageProps }) {
         <Component {...pageProps} />
       </main>
       <footer>
-        <div className="copyright">
-          {new Date().getFullYear()} Todos los derechos reservados.
+        <div className="social">
+          <a
+            href="https://www.instagram.com/bsanchez_relatosypoemas/"
+            target="_blank"
+            title="@bsanchez_relatosypoemas"
+          >
+            <Insta />
+          </a>
+          <a
+            href="https://twitter.com/bsanchezblog"
+            target="_blank"
+            title="@bsanchezblog"
+          >
+            <Twitter />
+          </a>
         </div>
-        <ChangeTheme />
+        <div className="footer-content">
+          <div className="copyright">
+            {new Date().getFullYear()} Todos los derechos reservados.
+          </div>
+          <ChangeTheme />
+        </div>
+        <div className="invite">
+          <a
+            className="kofi-link"
+            href="https://ko-fi.com/T6T2EYZWC"
+            target="_blank"
+            title="Invítame a un café"
+          >
+            <span>Invítame a un café</span>
+            <img
+              alt="Invítame a un café"
+              src="/cup-border.webp"
+              height="26"
+              className="kofi"
+            />
+          </a>
+        </div>
       </footer>
     </>
   )
