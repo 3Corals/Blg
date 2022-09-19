@@ -43,7 +43,7 @@ export default function Post({
           <meta
             key="meta-og-image"
             property="og:image"
-            content={'https://www.bsanchez.es' + data.cover}
+            content={'https://www.bsanchez.es/cover_images/' + data.cover}
           />
         )}
         <meta
