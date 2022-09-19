@@ -39,6 +39,13 @@ export default function Post({
         <meta name="twitter:title" content={data.title} />
         <meta key="og:type" property="og:type" content="article" />
         <meta key="meta-og:title" property="og:title" content={data.title} />
+        {data.cover && (
+          <meta
+            key="meta-og-image"
+            property="og:image"
+            content={'https://www.bsanchez.es' + data.cover}
+          />
+        )}
         <meta
           key="meta-og:description"
           property="og:description"

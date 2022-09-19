@@ -4,6 +4,7 @@ created: 07/19/2022
 description:
 series:
 tags: fantasía, comedia, casual
+cover: Pedrín_Pedroche_crítico_gastronómico_url.jpg
 ---
 
 Enriqueta tenía fama de dar a sus clientes justo lo que querían y puede que se le diera tan bien por su condición de bruja. Ella estaba más que satisfecha. Incluso había empezado a ser conocida a nivel nacional. A su parecer, su establecimiento era magnífico.
