@@ -11,7 +11,7 @@ Enriqueta tenía fama de dar a sus clientes justo lo que querían y puede que se
 
 A varios metros de allí estaba Pedrín Pedroche, un crítico amateur que se disponía a realizar su primera visita. Estaba muy emocionado. Había sido un paso muy difícil de dar porque casi nadie tenía fe en él. Todavía tenía presente la última conversación con su madre.
 
-—Pedrín, hijo mío, no es que no confíe en ti, sé que eres muy trabajador. Pero es que tú no tienes pupilas gustativas, cielo. Los trols comemos piedras. Y son gratis, no entiendo por qué tienes que ir a esas tiendas a que te saquen el dinero.
+—Pedrín, hijo mío, no es que no confíe en ti, sé que eres muy trabajador. Pero es que tú no tienes papilas gustativas, cielo. Los trols comemos piedras. Y son gratis, no entiendo por qué tienes que ir a esas tiendas a que te saquen el dinero.
 
 —Mamá, son restaurantes y ser crítico es algo muy importante.
 
