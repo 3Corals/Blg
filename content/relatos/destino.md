@@ -4,6 +4,7 @@ created: 10/13/2022
 description:
 series:
 tags: fantasía
+cover: destino.jpg
 ---
 
 Kida se sentó delante de la mesa de la cocina con el cabello blanco completamente enredado.
@@ -58,7 +59,7 @@ Kida no compartía la ilusión de su madre, que daba saltitos emocionada.
 
 “Lástima” pensó la joven.
 
-**********\***********
+****\*\*****\*****\*\*****
 
 ¡Cinco semanas a pie! Trabut odiaba su trabajo. Apartó el sucio pelo que le cubría el rostro y rehízo la coleta. Su brillante cabellera negra se había vuelto gris de tanto sudar, dormir a la intemperie y esconderse en grietas. Cuando llegó a la puerta de Sékita, su destino, gritó de rabia. La cola de mensajeros y comerciantes que esperaban su turno para entrar parecía interminable y él no llevaba consigo su documentación. Avanzó paralelo a la cola, ignorando los insultos que le lanzaban, directo al guardia que revisaba los permisos.
 
@@ -90,9 +91,7 @@ Trabut se exasperó, no tenía tiempo ni paciencia para esto.
 
 El mensajero suspiró y se sentó en una roca cercana a esperar.
 
-
-
-**********\***********
+****\*\*****\*****\*\*****
 
 Trabut, exhausto, dejó de correr. Tenía el rostro rojo, brillante por el sudor y no paraba de jadear. No llegaría nunca al castillo a ese ritmo y llevaba demasiado retraso. Le habían hecho esperar varias horas hasta que apareció alguien que verificó su identidad.
 
@@ -104,7 +103,7 @@ Entonces vio acercarse un cartero en bicicleta. Éste aparcó frente a una tiend
 
 “¡Lo siento, chico, es importante!” susurró Trabut, apropiándose del vehículo.
 
-**********\***********
+****\*\*****\*****\*\*****
 
 “La verdad es que entrenar con mamá no está tan mal” pensaba Kida, de camino al examen. Andaba deprisa por la calle principal, los exámenes finales se hacían en palacio y ese era el camino más rápido. Intentaba sortear a la gente, aunque con la pila de libros que llevaba en brazos, la tarea resultaba complicada. Kida estaba emocionada, había estudiado y entrenado con ahínco durante años y creía que lo bordaría.
 
@@ -122,7 +121,7 @@ Se desesperó al principio, ¡no le dejarían examinarse! Pero entonces recordó
 
 Entró en la floristería, ya que se llevaba bien con la dueña, y le pidió si podía guardar los libros allí. A continuación, accedió a la única librería de Sékate, con su mejor expresión de desinterés. Encontró un hueco oscuro en el fondo de la librería, desde el que vigilar los libros académicos. Esperaría el momento adecuado para cogerlo y saldría de allí.
 
-**********\***********
+****\*\*****\*****\*\*****
 
 Ya con todos los libros, Kida llegó a palacio, aunque tarde. Agusto había tardado más tiempo del saludable en ir al baño. En recepción preguntó cómo llegar al examen.
 
