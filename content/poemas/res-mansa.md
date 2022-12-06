@@ -1,5 +1,5 @@
 ---
-title: 'Res Mansa'
+title: 'Res mansa'
 created: 12/06/2022
 series:
 tags: vida
