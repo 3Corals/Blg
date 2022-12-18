@@ -9,7 +9,7 @@ import getCanonical from '../utils/getCanonical'
 
 import '../styles/main.css'
 import '../styles/highlightcode.css'
-import Twitter from '../components/Icons/Twitter'
+import TikTok from '../components/Icons/TikTok'
 import Insta from '../components/Icons/Insta'
 
 export default function Layout({ Component, pageProps }) {
@@ -111,18 +111,18 @@ export default function Layout({ Component, pageProps }) {
       <footer>
         <div className="social">
           <a
-            href="https://www.instagram.com/bsanchez_relatosypoemas/"
+            href="https://www.instagram.com/bsanchez_relatosypoesia/"
             target="_blank"
-            title="@bsanchez_relatosypoemas"
+            title="@bsanchez_relatosypoesia"
           >
             <Insta />
           </a>
           <a
-            href="https://twitter.com/bsanchezblog"
+            href="https://tiktok.com/@bsanchez.es"
             target="_blank"
-            title="@bsanchezblog"
+            title="@bsanchez.es"
           >
-            <Twitter />
+            <TikTok />
           </a>
         </div>
         <div className="footer-content">

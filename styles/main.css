@@ -236,7 +236,7 @@ header nav {
 
 footer a {
   color: var(--color);
-  margin: 10px;
+  margin: 10px 8px 10px 10px;
 }
 
 footer a:hover {
