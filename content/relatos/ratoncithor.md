@@ -58,7 +58,7 @@ Quince segundos más tarde, a Pérez le había aparecido un tic en el ojo izquie
 
 Salió del baño, haciendo respiraciones profundas mientras se secaba la cabeza con una toalla pequeña. También secó al martillo, que lo agradeció con un instante de show acústico-lumínico-divino.
 
-—Vale, vale, no hay para tanto -dijo Pérez, sentándose en el sofá.
+—Vale, vale, no hay para tanto —dijo Pérez, sentándose en el sofá.
 
 Se colocó las gafas de leer y abrió su diminuto portátil con movimientos controlados y el terror rechinándole los nervios. Lo que fuera con tal de no llamar al desastre de nuevo. Desde el dispositivo accedió a la base de datos de la organización Dientes de Leche S.A. que él mismo dirigía desde hacía varios siglos. Los ratoncitos mágicos viven mucho.
 
