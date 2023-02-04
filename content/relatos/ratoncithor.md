@@ -18,7 +18,7 @@ Cuál fue su sorpresa cuando, al abrir la puerta de casa, una extraña estructur
 
 El sobre que lo acompañaba indicaba “Al receptor de este martillo”. Pérez dudó al principio pero, tras mucho evaluar, entendió que debía darse por aludido. Lo abrió, no sin cierta dificultad, ya que se trataba de un sobre tamaño humano.
 
-—Siempre gastando papel, cuando con uno chiquitín tendrían de sobre. —Se rio de su propia gracia. Ya os he dicho que le iba la guasa.
+—Siempre gastando papel, cuando con uno chiquitín tendrían de sobre —Se rio de su propia gracia. Ya os he dicho que le iba la guasa.
 
 La letra de la carta tenía tantas florituras que necesitó un rato para empezar a entenderla.
 
