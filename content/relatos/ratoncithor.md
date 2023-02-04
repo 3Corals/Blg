@@ -3,7 +3,7 @@ title: 'RatonciThor'
 created: 02/04/2023
 description:
 series:
-tags: comedia, fantasía,
+tags: comedia, fantasía
 ---
 
 Pérez contó hasta diez para no soltar un taco. Se había despertado con el presentimiento de que las cosas se pondrían complicadas, se lo decían los dientes. Estaban más fríos de lo normal y eso no era buena señal. Se levantó de su diminuta cama y se puso sus zapatillas con forma de gato. Sí, le iba la guasa, ¿algún problema?
