@@ -24,7 +24,7 @@ qué será de aquellas brumas,
 estaban vivas.
 Pero no oyes, será el cansancio,
 que huye tanto
-de la verdad
+de la verdad.
 
 La vela cae, la cera llora,
 recorre el rumbo, tosco,
