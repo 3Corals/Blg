@@ -18,7 +18,7 @@ es de todos, siempre, el peor.
 Tras ello, la herida que sangra y duele,
 los gritos que no se pueden oír,
 tras nuestra tierna cárcel de pieles,
-otro gran temor es, sufrir.
+otro gran temor es sufrir.
 
 Y abrazar lo desconocido,
 cruzando distancias y miradas,
