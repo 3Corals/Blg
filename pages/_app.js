@@ -90,17 +90,15 @@ export default function Layout({ Component, pageProps }) {
         />
       </Head>
       <header>
-        <Link href="/">
-          <a title="Go to homepage" className="logo">
-            <Logo />
-          </a>
+        <Link href="/" title="Go to homepage" className="logo">
+          <Logo />
         </Link>
         <nav>
-          <Link href="/poemas">
-            <a className={isActive('/poemas')}>Poemas</a>
+          <Link href="/poemas" className={isActive('/poemas')}>
+            Poemas
           </Link>
-          <Link href="/relatos">
-            <a className={isActive('/relatos')}>Relatos</a>
+          <Link href="/relatos" className={isActive('/relatos')}>
+            Relatos
           </Link>
         </nav>
       </header>

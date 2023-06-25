@@ -10,9 +10,7 @@ export default function BlogSeries({ title, series, ...props }) {
 
   return (
     <div className={styles.blogSeries} {...props}>
-      <div className={styles.title}>
-        {title}
-      </div>
+      <div className={styles.title}>{title}</div>
       {series.map((serie, index) => {
         const title = `${index + 1}) ${serie.title}`
         const key = `serie-${serie.slug}`
@@ -33,8 +31,9 @@ export default function BlogSeries({ title, series, ...props }) {
             href={`/blog/[slug]?slug=${serie.slug}`}
             as={`/blog/${serie.slug}`}
             key={key}
+            className={styles.blogSerie}
           >
-            <a className={styles.blogSerie}>{title}</a>
+            {title}
           </Link>
         )
       })}

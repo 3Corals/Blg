@@ -4,7 +4,7 @@ export default function ChangeTheme() {
   const select = useRef()
   const isNode = typeof window === 'undefined'
   const [theme, setTheme] = useState(
-    isNode ? undefined : window.__theme || 'system'
+    isNode ? 'system' : window.__theme || 'system'
   )
 
   function onChangeTheme(e) {
@@ -12,8 +12,6 @@ export default function ChangeTheme() {
     window.__setPreferredTheme(value)
     setTheme(value)
   }
-
-  if (isNode) return null
 
   return (
     <div className="change-theme">
