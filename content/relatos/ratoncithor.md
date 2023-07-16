@@ -12,7 +12,7 @@ Le tendréis que disculpar, no se despertaba de muy buen humor.
 
 Miró el reloj y… Oh, qué desatino, se había despertado media hora antes. Desactivó la alarma para que no le molestara. El día no empezaba con la esplendidez a la que estaba acostumbrado, ¡y él era muy de rutinas! Para rematar, el desayuno tampoco fue un lujo. Se había acabado la fruta. Arándanos, por supuesto, ya que era lo único que cabía en la nevera. Se preparó un buen tazón de leche con cacao, pero lo escupió al primer sorbo. La leche se había agriado. Menudo día. Se vistió rápido y decidió que ya tomaría algo en la oficina.
 
-Cuál fue su sorpresa cuando, al abrir la puerta de casa, una extraña estructura de madera le dio la bienvenida. A primera vista parecía tratarse de una columna caída. La recorrió hasta un cubo de metal, rectangular, bastante decorado con diseños que no conseguía reconocer.
+Cuál fue su sorpresa cuando, al abrir la puerta de casa, una extraña estructura de madera le dio la bienvenida. A primera vista parecía tratarse de una columna caída. La recorrió hasta un cubo de metal rectangular, bastante decorado con diseños que no conseguía reconocer.
 
 —¿Un martillo? ¿Aquí? ¿Por qué?
 
