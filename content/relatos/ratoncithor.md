@@ -88,7 +88,7 @@ Cuando horas más tarde llegó Thor, llamó a la puerta principal, que le llegab
 
 —Buenos días, vengo a por mi martillo —dijo Thor, muy respetuoso, manteniendo una postura incómodamente encorvada. ¿Es usted el Señor Ratoncito Pérez? He supuesto que se llama así, lo pone en la tablilla rota de ahí.
 
-Pérez no contestó. El hombre no tenía el aspecto que había visto en las fotografías pero poco le importaba si iba a llevarse la endemoniada arma. Señaló el pedrusco sobre el que se encontraba el martillo y llamó a Luisito, su asistente. Tuvo que pedirle que viniera al ver que apenas se podía mover. Este apareció con catorce carpetas y se las entregó al dios, que pudo cogerlas con dos dedos.
+Pérez no contestó. El hombre no tenía el aspecto que había visto en las fotografías pero poco le importaba si iba a llevarse la endemoniada arma. Señaló el pedrusco sobre el que se encontraba el martillo y llamó a Luisito, su asistente. Tuvo que pedirle que viniera ya que apenas se podía mover. Este apareció con catorce carpetas y se las entregó al dios, que pudo cogerlas con dos dedos.
 
 —En la primera tiene los datos para que contacte con nuestro abogado —dijo con voz de pito, Luisito, mientras cerraba la solitaria puerta de un portazo.
 
