@@ -7,7 +7,7 @@ tags: fantasía
 
 Salvaje de cuna arisca,
 de flamante pendón de piedra,
-emerge en la noche y grita
+emerge en la noche y grita,
 otorgándole al que oye, tregua.
 
 En la tierra, el carmesí y la lluvia
