@@ -56,7 +56,7 @@ Se quedó ahí sentado, en silencio, preguntándose cómo había llegado a esa s
 
 Quince segundos más tarde, a Pérez le había aparecido un tic en el ojo izquierdo. No es que tuviera problemas con que el martillo hubiera roto el cristal, agujereado la pared y destrozado el grifo, es solo que no le gustaba que le interrumpieran en sus quehaceres. ¿Lo demás? Le enviaría a ese tal Thor la factura de su vida, ¡se lo pensaría dos veces antes de volver a mandarle nada! O eso iba pensando Pérez mientras tras pedirle al martillo de nuevo que se soltara y, enrojecido de rabia, se cepillaba los dientes con tanto ahínco que habían empezado a sangrar. El chorrito de agua que se escapaba del grifo roto hasta su oreja, en el ángulo apropiado, por lo menos le sirvió para enjuagarse la boca.
 
-Salió del baño, haciendo respiraciones profundas mientras se secaba la cabeza con una toalla pequeña. También secó al martillo, que lo agradeció con un instante de show acústico-lumínico-divino.
+Salió del baño haciendo respiraciones profundas mientras se secaba la cabeza con una toalla pequeña. También secó al martillo, que lo agradeció con un instante de show acústico-lumínico-divino.
 
 —Vale, vale, no hay para tanto —dijo Pérez, sentándose en el sofá.
 
