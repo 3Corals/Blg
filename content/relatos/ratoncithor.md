@@ -82,7 +82,7 @@ El astro rey brilló con la luz de un nuevo día, y Pérez bostezó, sin saber q
 
 —Esto... —lo mismo.
 
-Algo no estaba bien. ¿Rocas? ¿Cómo? Se puso tan de pie como su maltrecho cuerpo le permitía y miró a su alrededor. Su querida casa lo rodeaba con el aspecto que tendrían unas ruinas romanas si estas estuvieran llenas de sus más queridos recuerdos. Empezó a hiperventilar sin creerse lo que veía. Y entonces volvió a gritar, como haría el pizzero si también se quedara sin queso.
+Algo no estaba bien. ¿Rocas? ¿Cómo? Se puso tan de pie como su maltrecho cuerpo le permitió y miró a su alrededor. Su querida casa lo rodeaba con el aspecto que tendrían unas ruinas romanas si estas estuvieran llenas de sus más queridos recuerdos. Empezó a hiperventilar sin creerse lo que veía. Y entonces volvió a gritar, como haría el pizzero si también se quedara sin queso.
 
 Cuando horas más tarde llegó Thor, llamó a la puerta principal, que le llegaba a menos de la mitad de sus botas y era, quizás, la única parte de la casa que había quedado en pie. Pérez le veía perfectamente pero aun así le abrió, con el cuerpo envuelto en vendas y escayolas, y la mirada furibunda. Porque a educado no le ganaba nadie.
 
