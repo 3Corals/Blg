@@ -27,7 +27,7 @@ No tengo palabras para agradecerte lo mucho que ha significado para mí. No habr
 
 Le contaré a Belinda sobre un hombre, muy alto y risueño, con un corazón tan bondadoso y sabio, que dejó a su madre volar porque sabía mejor que nadie lo que es la felicidad.
 
-Espero que te encuentres bien,
+Espero que te encuentres bien.
 Con cariño,
 
 Tu amiga que no te olvidará.
