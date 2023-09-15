@@ -9,9 +9,8 @@ export default class MyDocument extends Document {
           <link rel="manifest" href="/manifest.json" />
           <script
             async
-            defer
-            data-website-id="e5d44430-81d9-478e-87a6-a4468acf19d3"
-            src="https://umami-7g8ofdpgb-b-s.vercel.app/script.js"
+            src="https://analytics.umami.is/script.js"
+            data-website-id="2d5d2c1d-8463-4513-9ced-e465dd291436"
           ></script>
         </Head>
         <body className="light">
