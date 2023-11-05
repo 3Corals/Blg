@@ -87,4 +87,3 @@ allí reside mi hogar.
 
 
 A mi Iaia, que me regaló una infancia llena de colores y me habló de las sombras cuando nadie más lo hacía.
-
