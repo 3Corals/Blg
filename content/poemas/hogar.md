@@ -40,7 +40,7 @@ me olvidaba de todo y de nada,
 fuera cual fuera el momento,
 sabía que me cuidabas.
 
-Sabía, también, que cedías,
+Sabía, también, que cedías
 trazas de tu libertad amada,
 lágrimas, gotas de rocío,
 vertidas cuando no miraba.
