@@ -11,8 +11,7 @@ ay, el viento al mecer tus cabellos.
 Es un sueño, lo sé, aún empaño
 el cristal de mis iris desnudos.
 
-Me convence el susurro
-sosegado,
+Me convence el susurro sosegado,
 sublime sentencia sesgada,
 siempre si, por la mañana,
 se peina y no dice nada.
