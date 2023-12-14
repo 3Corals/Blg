@@ -3,7 +3,7 @@ title: 'Volar y bailar'
 created: 08/13/2023
 description:
 series:
-tags: epistolar
+tags: epistolar, romance
 ---
 
 A mi viejo amigo,
