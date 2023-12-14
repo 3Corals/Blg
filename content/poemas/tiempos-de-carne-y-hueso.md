@@ -25,8 +25,8 @@ encrucijados y ciegos,
 tramando fútiles trucos
 de cercenados deseos.
 
-No hay peaje más incondicional
-aunque resulte maleable a veces
+No hay peaje más incondicional,
+aunque resulte maleable a veces,
 que el regalo de la edad
 a medida que la padeces.
 
