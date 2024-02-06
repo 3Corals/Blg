@@ -133,4 +133,4 @@ Bajó deprisa y fue a buscar a Marc para contarle lo ocurrido.
 —Lo siento... tendría que habértelo dicho antes, pero no sabía cómo —Marc se hizo a un lado y señaló el nombre de la lápida en la que se había apoyado. 
 “Marc Gómez Truque”
 
-—No… —Susana huyó de allí. Desesperada, intentó volver a saltar el muro pero terminó en el suelo. Fue entonces cuando se encontró con su cuerpo, escondido entre la hierba alta, justo en el lugar en el que había resbalado al llegar. Su propio rostro la observaba con ojos ciegos—. ¡No, no, no!
+—No… —Susana huyó de allí. Desesperada, intentó volver a saltar el muro pero terminó en el suelo. Fue entonces cuando se encontró con su cuerpo, escondido entre la hierba alta, justo en el lugar en el que había resbalado al llegar. Su propio rostro la observaba con ojos ciegos.
