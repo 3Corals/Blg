@@ -1,5 +1,5 @@
 ---
-title: 'El siglo de las Pocas Luces'
+title: 'El Siglo de las Pocas Luces'
 created: 09/29/2024
 description:
 series:
