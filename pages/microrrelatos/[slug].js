@@ -11,7 +11,7 @@ import clearPage from '../../utils/clearPage'
 import getMorePosts from '../../utils/getMorePosts'
 import readPost from '../../utils/readPost'
 
-const folder = 'content/relatos'
+const folder = 'content/microrrelatos'
 
 export default function Post({
   __html,
@@ -53,7 +53,7 @@ export default function Post({
       </Head>
       <h1 className="post-title">{data.title}</h1>
       <BlogSeries key="series-top" title={data.series} series={series} />
-      <div className="post relato" dangerouslySetInnerHTML={{ __html }} />
+      <div className="post microrrelato" dangerouslySetInnerHTML={{ __html }} />
       <BlogSeries
         style={{ marginTop: 40 }}
         key="series-bottom"
@@ -73,7 +73,7 @@ export default function Post({
         <div style={{ marginBottom: 50 }}>
           <b className="related-posts-title">Más...</b>
           {morePosts.map((p) => (
-            <PostItem parent="relatos" key={p.slug} {...p} />
+            <PostItem parent="microrrelatos" key={p.slug} {...p} />
           ))}
         </div>
       )}

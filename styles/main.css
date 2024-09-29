@@ -354,7 +354,8 @@ blockquote {
   text-align: center;
 }
 
-.post.relat p {
+.post.relato p,
+.post.microrrelato p {
   text-align: justify;
   text-justify: inter-word;
 }

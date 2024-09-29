@@ -18,7 +18,9 @@ export default function Layout({ Component, pageProps }) {
   const isDefaultMeta =
     pathname !== '/relatos/[slug]' && pathname !== '/poemas/[slug]'
   const mainClass =
-    pathname.startsWith('/poemas/') || pathname.startsWith('/relatos/')
+    pathname.startsWith('/poemas/') ||
+    pathname.startsWith('/relatos/') ||
+    pathname.startsWith('/microrrelatos/')
       ? 'blog'
       : ''
 
@@ -94,6 +96,9 @@ export default function Layout({ Component, pageProps }) {
           <Logo />
         </Link>
         <nav>
+          <Link href="/microrrelatos" className={isActive('/microrrelatos')}>
+            Microrrelatos
+          </Link>
           <Link href="/poemas" className={isActive('/poemas')}>
             Poemas
           </Link>
