@@ -10,6 +10,6 @@ quiero fundirme en él.
 Dime que nada es eterno
 y yo lo conseguiré.
 Di que mis pies son de plomo
-y mi lomo doctrina y vejez.
+y mi lomo, doctrina y vejez.
 Que cuando se alcen las golondrinas
 yo ya no estaré.
