@@ -86,7 +86,7 @@ Algo no estaba bien. ¿Rocas? ¿Cómo? Se puso tan de pie como su maltrecho cuer
 
 Cuando horas más tarde llegó Thor, llamó a la puerta principal, que le llegaba a menos de la mitad de sus botas y era, quizás, la única parte de la casa que había quedado en pie. Pérez le veía perfectamente pero aun así le abrió, con el cuerpo envuelto en vendas y escayolas, y la mirada furibunda. Porque a educado no le ganaba nadie.
 
-—Buenos días, vengo a por mi martillo —dijo Thor, muy respetuoso, manteniendo una postura incómodamente encorvada. ¿Es usted el Señor Ratoncito Pérez? He supuesto que se llama así, lo pone en la tablilla rota de ahí.
+—Buenos días, vengo a por mi martillo —dijo Thor, muy respetuoso, manteniendo una postura incómodamente encorvada.— ¿Es usted el Señor Ratoncito Pérez? He supuesto que se llama así, lo pone en la tablilla rota de ahí.
 
 Pérez no contestó. El hombre no tenía el aspecto que había visto en las fotografías pero poco le importaba si iba a llevarse la endemoniada arma. Señaló el pedrusco sobre el que se encontraba el martillo y llamó a Luisito, su asistente. Tuvo que pedirle que viniera ya que apenas se podía mover. Este apareció con catorce carpetas y se las entregó al dios, que pudo cogerlas con dos dedos.
 
