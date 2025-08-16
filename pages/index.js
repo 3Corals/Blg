@@ -3,7 +3,7 @@ export default function Home() {
     <div className="homepage">
       <h1 style={{ fontSize: 20 }}>Bienvenidos,</h1>
       <p>
-        Soy B. Sánchez y estáis en mi territorio. Inicio una aventura con este
+        Soy B. Sánchez y estáis en mi territorio. Inicié una aventura con este
         blog, una que da un poco de miedo pero también que emociona. Quería un
         lugar en el que volcar el batiburrillo que tengo en la cabeza y aquí lo
         tenéis. Mis relatos y poemas los elaboro con mucho cariño y espero que
