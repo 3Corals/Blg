@@ -9,7 +9,7 @@ tags: epistolar, romance
 A mi viejo amigo,
 No tengo muchas esperanzas de que recibas esto. Puede que ni siquiera quieras abrir el sobre. Pero yo tengo tanto que decirte…
 
-Llegué a esta tierra hace ya cinco años. Como muchos otros, no conocíamos las dificultades que enfrentaríamos, pero yo estaba feliz. Los bosques eran hermosos y los cielos azules. La tierra era fácil de cultivar y no escaseaba ningún recurso. Nos costaba lo nuestro, sabes que no reniego del trabajo duro. Pero daba frutos y estos eran para nosotros. ¡Para nosotros! ¿Te lo imaginas? Nada de mandamases viviendo de nuestros esfuerzos. Nada de vagos. Aquí todo el mundo tiene una función y solo a los niños se les permite recibir sin dar nada a cambio. Sin embargo, es fácil.
+Llegué a esta tierra hace ya cinco años. Como muchos otros, no conocíamos las dificultades que enfrentaríamos, pero yo estaba feliz. Los bosques eran hermosos y los cielos azules. La tierra era fácil de cultivar y no escaseaba ningún recurso. Nos costaba lo nuestro, sabes que no reniego del trabajo duro. Pero daba frutos y estos eran para nosotros. ¡Para nosotros! ¿Te lo imaginas? Nada de mandamases viviendo de nuestros esfuerzos. Nada de vagos. Aquí todo el mundo tiene una función y solo a los niños se les permite recibir sin dar nada a cambio.
 
 Poco a poco conseguí mi gran sueño. Quizás no en el gran teatro que hay cerca de nuestra antigua casa, pero es tan maravilloso como imaginaba. Una vez organizadas las necesidades básicas, hemos empezado a juntarnos según nuestras pasiones.
 
